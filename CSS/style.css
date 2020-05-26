@@ -1,0 +1,108 @@
+.top-container{
+  background-color: #e0ebe8 ;
+  padding-top: 100px;
+  position: relative;
+}
+
+.middle-container{
+  padding-top: 50px;
+}
+
+.bottom-container{
+  padding: 50px;
+  background-color: #c5ded7;
+}
+
+body{
+  margin : 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  color: #45b29a;
+  line-height: 2;
+}
+
+h1{
+  margin : 0 auto;
+  font-family: 'Clicker Script', cursive;
+  font-size: 5.625rem;  /*90px*/
+}
+
+h2{
+  font-family: 'Montserrat', sans-serif;
+  margin: 50px auto;
+  color: #1e836c;
+  font-size: 2.5rem;  /*60px*/
+}
+
+h3{
+  font-family: 'Montserrat', sans-serif;
+  margin: 50px auto;
+  font-size: 40px;
+}
+
+.first-text{
+  color:#45b29a;
+  font-weight: normal;
+  margin-top: 0;
+}
+
+p{
+  color: #545454;
+  font-size: 18px;
+
+}
+
+hr{
+  margin-top: 50px;
+  border-style: ridge;
+  border-color: #e0ebe8;
+}
+
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top:50px;
+}
+
+.bottom-cloud{
+  position: absolute;
+  left:300px;
+  bottom:300px;
+}
+
+.otherh3{
+  margin-top: 0;
+}
+
+.btn{
+  background-color:#45b29a;
+  padding:10px 50px;
+  border-radius: 5px;
+  text-decoration: none;
+}
+
+.Button{
+  margin: 50px 0 100px;
+}
+
+.footer-link{
+  text-decoration: none;
+  margin: 80px;
+}
+
+.subscript{
+  font-size: 12px;
+  color: #257B69;
+  margin-top: 50px;
+}
+
+a:link{
+  /*Unvisited link*/
+  color: #257B69;
+}
+a:visited{
+color: #257B69;
+}
+a:hover{
+  color: white;
+}
