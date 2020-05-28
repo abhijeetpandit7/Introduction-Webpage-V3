@@ -52,6 +52,11 @@ p{
 
 }
 
+.contact-msg{
+  width: 40%;
+  margin: 40px auto 60px;
+}
+
 hr{
   margin-top: 50px;
   border-style: ridge;
